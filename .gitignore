@@ -1,0 +1,25 @@
+# Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/venv/
+**/env/
+**/.venv/
+
+# Secret files
+**/.env
+**/.env.*
+
+# Uploaded images
+Backend/uploads/
+
+# Logs and editors
+*.log
+.vscode/
+.idea/
+.DS_Store
